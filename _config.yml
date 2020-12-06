@@ -12,15 +12,14 @@ author: eVIBE
 # [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
 navbar-links:
-  Types: "전기 자동차의 종류"
-  Feature: "전기 자동차의 특징"
-  Charge: "전기 자동차의 충전"
+  전기 자동차의 종류: "Types"
+  전기 자동차의 특징: "Feature"
+  전기 자동차의 충전: "Charge"
   구매시 고려사항: "Consideration"
-  Safety and maintenance: "안전 및 유지관리"
+  보조금 지원: "Support"
+  안전 및 유지관리: "Safety and maintenance"
   Blog: "blog"
   Project: "project"
-  Support: "보조금 지원"
-
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
 avatar: "/assets/img/seokho-square-2.jpg"
