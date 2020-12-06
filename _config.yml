@@ -13,11 +13,11 @@ author: eVIBE
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
 navbar-links:
   전기 자동차의 종류: "type"
-  전기 자동차의 특징: "Feature"
-  전기 자동차의 충전: "Charge"
-  구매시 고려사항: "Consideration"
-  보조금 지원: "Support"
-  안전 및 유지관리: "Safety and maintenance"
+  전기 자동차의 특징: "feature"
+  전기 자동차의 충전: "charge"
+  구매시 고려사항: "consideration"
+  보조금 지원: "support"
+  안전 및 유지관리: "safety"
   Blog: "blog"
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
@@ -86,8 +86,8 @@ navbar-col: "#000000"
 navbar-text-col: "#FFFFFF"
 navbar-border-col: "#EAEAEA"
 page-col: "#FFFFFF"
-link-col: "#B7B9BE"
-hover-col: "#B7B9BE"
+link-col: "#008AFF"
+hover-col: "#0085A1"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#564DF0"
