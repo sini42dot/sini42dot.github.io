@@ -4,6 +4,7 @@
 ![Crepe](/assets/img/type_1.png)
 
 
+<br/>
 
 ## 1.1. 하이브리드 전기차
 
@@ -30,6 +31,7 @@ Plug-in Hybrid Electric Vehicle (PHEV)
 * EV 모드와 HEV 모드 두 가지 모드로 주행하며 연비 효율에 맞게 분배하며 주행
 * 별도의 충전이 가능해지며 HEV 보다 주행 거리가 개선됨
 
+<br/>
 
 ## 1.2. 순수 전기차
 
