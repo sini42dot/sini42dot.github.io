@@ -6,8 +6,7 @@ gh-repo: seokho-son/seokho-son.github.io
 gh-badge: [star, fork, follow]
 tags: [EV news]
 ---
-
-(https://d3jn14jkdoqvmm.cloudfront.net/wp/wp-content/uploads/2020/11/23195320/evpost_4%EA%B0%9C%EC%9D%98-%EB%AA%A8%ED%84%B0%EB%A1%9C-1900-%EB%A7%88%EB%A0%A5-%EC%9D%B4%EC%83%81-Elation-Freedom-Electric-%ED%95%98%EC%9D%B4%ED%8D%BC%EC%B9%B4-evpost-03.jpg)
+![Crepe](https://d3jn14jkdoqvmm.cloudfront.net/wp/wp-content/uploads/2020/11/23195320/evpost_4%EA%B0%9C%EC%9D%98-%EB%AA%A8%ED%84%B0%EB%A1%9C-1900-%EB%A7%88%EB%A0%A5-%EC%9D%B4%EC%83%81-Elation-Freedom-Electric-%ED%95%98%EC%9D%B4%ED%8D%BC%EC%B9%B4-evpost-03.jpg)
 
 ### 1,900마력 이상!
 Elation 하이퍼카
