@@ -1,116 +1,47 @@
----
-layout: page
-title: Research Career
----
+# 전기 자동차의 종류
+전기 자동차(EV, Electric Vehicle)는 가솔린이나 디젤과 같은 화석 연료 사용량을 줄이고 전기 에너지를 동력원으로 이용하기 때문에 지속가능한 친환경 자동차로 각광 받고 있다. 전기 자동차의 연비 효율성과 친환경성에 비해 높은 초기 비용, 짧은 주행 거리에 대한 단점을 보완 위해 순수 전기차 외의 하이브리드 전기차 역시 전기차의 일종으로  전기 자동차는 공급 방식이나 에너지 사용 비율에 따라 구분된다. 
 
-<br/>
+![Crepe](/assets/img/seokho-square.jpg)
 
+### Notification
+{: .box-note}
+**Note:** This is a notification box.
 
-# Research Experience
+## 1.1. 하이브리드 전기차
 
-### Electronics and Telecommunications Research Institute
-#### Senior Researcher, 2014 to Present
+### (1) 마일드 하이브리드 전기차
+Mild Hybrid Electric Vehicle (Mild-HEV)
 
-* Project (ongoing): _**Multi-cloud service common framework**_
-  * Role: design and development of multi-cloud platform, open-source based project management, standardization activity
-* Project: _**Heterogeneous multi-cloud service brokerage platform**_
-  * Role: design and development of a cloud service brokerage platform, analysis of open-source projects, operation of openstack cloud testbeds, standardization activity
-* Project: _**Big data-based IT system operation and analysis framework**_
-  * Role: design of a system for a big-data analytics-driven resource management in virtual EPC (NFV-based LTE core network)
+* 내연 기관 엔진 차량과 전기 자동차의 혼합(hybrid) 형태
+* 출발, 가속/등판 주행 상황에서만 엔진+모터 구동이 가능함
+* 모터를 단독으로 구동할 수 없기 때문에 Mild 혹은 Soft HEV라 불림
+* **별도의 충전 없이** 공회전 및 회생 제동으로 급전함
 
-### TestMidas, Inc.
-#### Senior Researcher,	2013 to 2014
-
-* Project: _**An open source-based testing tool for Cloud OS validation**_
-  * Role: design and development of openstack validation tool, openstack-based cloud API testing.
-
-### Gwangju Institute of Science and Technology (GIST)
-#### Ph.D. Student, 2009 to 2012
-
-* Project: _**Relaxed-criteria concurrent SLA negotiations for bolstering dynamic provisioning of personalized Cloud resources**_
-  * Role: researches for bargaining-based cloud SLA establishment and cloud resource management
-
-### Gwangju Institute of Science and Technology (GIST)
-#### Master Student, 2006 to 2008
-
-* Project: _**Development of e-organ system based on cyber computing**_
-  * Role: development of a high resolution interactive brain visualization system (3D brain, MRI, and EIT images)
-* Project: _**Research on realistic digital broadcasting technology**_
-  * Role: development of a realistic broadcasting system
-* Project: _**Development of Immersive 3D networked virtual environment technology**_
-  * Role: development of a delay compensation mechanism to mitigate network delay problems in 3D network virtual environment with haptic devices
-
-<br/>
-
-# Professional Activity
-
-### Open Source Project Contribution
-
-* Kubernetes project contents owner
-  * Official member of Kubernetes organization (Github)
-  * Contributor of [Kubernetes/website](https://github.com/kubernetes/website) (approver/reviewer/contributor)
-  * Contributor of [Kubernetes/dashboard](https://github.com/kubernetes/dashboard) (approver/reviewer/contributor)
-* Cloud-Barista project owner
-  * Technical leader for [Cloud-Barista/CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug)
-  * Owner of [Cloud-Barista/CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug) project (approver/reviewer/contributor)
-  * Owner of [Cloud-Barista/CB-Operator](https://github.com/cloud-barista/cb-operator) (approver/reviewer/contributor)
-* Github Profile: [https://github.com/seokho-son](https://github.com/seokho-son)
-
-### Reviewer for Reputed Journals
-
-* ACM Computing Surveys (ACM)
-* IEEE Transactions on Cloud Computing (IEEE)
-* IEEE Transactions on Service Computing (IEEE)
-* Journal of Supercomputing (Springer)
-* Information Systems Frontier (Springer)
-* International Journal of Cloud Computing (Inderscience)
-* ETRI Journal (Wiley)
-
-### International Standardization
-
-* ITU-T SG13 : main contributor of Y.csb-reqts (recommendation for cloud service brokerage requirements)
-  * Activities to obtain editorship of Y.csb-reqts document (Geneva, June 2016)
-  * 19 proposals (contributions) have been accepted for Y.csb-reqts
-* ITU-T SG13 : main contributor of Y.mc-reqts (recommendation for multi-cloud requirements)
-  * Activities to obtain editorship of Y.mc-reqts document (Geneva, June 2019)
-  * 3 proposals (contributions) have been accepted for Y.mc-reqts
-* Committee of [Korea ITU Committee](https://www.koreaitu.or.kr/)
-
-### Conference Committee
-
-* Paper Session Chair: The 2012 International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA'12), Cloud Computing Session
-* Conference Committee: Mexico Satellite Session of IEEE BigData (Mexico City, May 8, 2014)
-
-### Invited Talk
-
-* Invited Talk regarding **_Introduction to Container-based Computing Platform (feat. Kubernetes)_**, 2020
-* Invited Talk regarding [**_Getting Involved in Kubernetes SIG Docs and Korean Localization_**](https://k8sforumseoul19eng.sched.com/event/WIRH/getting-involved-in-kubernetes-sig-docs-and-korean-localization-seokho-son-electronics-and-telecommunications-research-institute-etri-ian-choi-microsoft), Kubernetes Forum Seoul (LinuxFoundataion), 2019
-* Invited Talk regarding **_Cloud Computing with IoT_**, Handong-Univ., 2017
-* Invited Talk regarding **_Cloud Service Brokerage Systems_**, in the Education and Training for CSP experts sponsored by Consortium of Cloud Computing Research , 2016
-* Invited Talk regarding **_HPC over Cloud_**, in Korea Supercomputing Conference 2015, 2015
-* Invited Talk regarding **_HPC Cloud_**, in SCENT HPC Summer School at GIST, 2015
-* Invited Technical Committee for **_Cloud computing and Big data_**, National Computing & Information Agency (Government data center of Korea), 2012
-  * invited expert and lecturer of the SMART Cloud group in NCIA which is a national institute to operate information systems of Korea government. Made several lectures during a year regarding Cloud computing and big data to 30 public officials including senior civil servants.
-* Invited Expert for **_Cloud computing and parallel computing systems_**, Mokwon University in Korea, 2012-2013
-  * assisted a research team in Mokwon University to help the team construct a distributed computing system to process massive data from a large antenna.
+### (2) 마일드 하이브리드 전기차
+Hybrid Electric Vehicle (HEV, Full HEV)
+* 내연 기관 엔진 차량과 전기 자동차의 혼합(hybrid) 형태
+*  출발과 저속 주행에서도 단독으로 전기 모터가 차량을 구동시키는 것이 가능하기 때문에 ‘완전한(full)’ 하이브리드라 불림
+* 내연 기관 엔진 차량과 순수 전기차의 구동원인 엔진과 모터 모두를 탑재하여 화학 연료와 전기 모두를 주행 상황에 따라 에너지원으로 사용
+* **별도의 충전 없이** 공회전 및 회생 제동으로 급전함
 
 
-<br/>
+### (3) 플러그인 하이브리드 전기차
+Plug-in Hybrid Electric Vehicle (PHEV)
+* 하이브리드 전기차에 **충전 플러그**를 탑재하여 **외부 충전이 가능**
+* EV 모드와 HEV 모드 두 가지 모드로 주행하며 연비 효율에 맞게 분배하며 주행
+* 별도의 충전이 가능해지며 HEV 보다 주행 거리가 개선됨
 
-# Honor and Award
+## 1.2. 순수 전기차
 
-* Award from Startup Idea Contest 2020 of ETRI
-* Best Paper Presentation Award from Korea Information Science Society	2014
-  * Best paper presentation in Korea Computer Congress 2014
-* Best Paper Presentation Award from Korea Information Science Society	2012
-  * Best paper presentation in Korea Computer Congress 2012
-* Amazon Web Services (AWS) in Education Research Grant	2012
-  * A research proposal has been accepted from Amazon Web Services, Inc
-* National Scholarship for PhD from Korea government	2009–2013
-  * Full financial support from Korea government as a PhD student in GIST  
-* National Scholarship for MS from Korea government	2006–2008
-  * Full financial support from Korea government as a MS student in GIST  
-* Brain Korea 21 (BK21) Scholarship (3 times)	2003–2005
-  * Scholarship from BK21 organized by Ministry of Education and Human Resources Development of South Korea.
-* Pukyong National University Scholarship for Top Student (2 times)	2005–2006
-  * A financial support that fully covers a BS semester, given to a student who achieved the highest GPA in a semester.
+### (1) 배터리 전기차
+Battery Electric Vehicle (BEV, Pure-EV)
+*  엔진 없이 화석 연료를 대신하여 순수 전기만을 에너지원으로 이용하는 전기차
+*  배터리에 전기를 **외부에서 충전**하여 에너지를 저장
+* 전기 모터는 구동원으로 배터리에 저장된 전기를 사용하여 차량을 구동시킴
+* 전기만을 사용하기 때문에 배기 가스 배출이 없어 친환경적임
+
+### (2) 수소 전기차
+Fuel Cell Electric Vehicle (FCEV)
+* 교체 가능한 수소 연료 전지 시스템을 탑재한 전기차
+* 하이브리드 전기차, 배터리 전기차와는 다르게 전기를 직접 발생시켜 에너지원으로 사용
+* 수소 탱크에 외부에서 수소를 공급 받고, 대기 공기로부터 산소를 추출하여 수소와 산소를 결합하여 전기와 물을 발생시키는 원리
