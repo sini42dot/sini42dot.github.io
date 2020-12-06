@@ -7,7 +7,7 @@
 
 ## 1.1. 하이브리드 전기차
 
-<br/>
+
 ### (1) 마일드 하이브리드 전기차
 Mild Hybrid Electric Vehicle (Mild-HEV)
 * 내연 기관 엔진 차량과 전기 자동차의 혼합(hybrid) 형태
@@ -15,12 +15,14 @@ Mild Hybrid Electric Vehicle (Mild-HEV)
 * 모터를 단독으로 구동할 수 없기 때문에 Mild 혹은 Soft HEV라 불림
 * **별도의 충전 없이** 공회전 및 회생 제동으로 급전함
 
+
 ### (2) 마일드 하이브리드 전기차
 Hybrid Electric Vehicle (HEV, Full HEV)
 * 내연 기관 엔진 차량과 전기 자동차의 혼합(hybrid) 형태
 * 출발과 저속 주행에서도 단독으로 전기 모터가 차량을 구동시키는 것이 가능하기 때문에 ‘완전한(full)’ 하이브리드라 불림
 * 내연 기관 엔진 차량과 순수 전기차의 구동원인 엔진과 모터 모두를 탑재하여 화학 연료와 전기 모두를 주행 상황에 따라 에너지원으로 사용
 * **별도의 충전 없이** 공회전 및 회생 제동으로 급전함
+
 
 ### (3) 플러그인 하이브리드 전기차
 Plug-in Hybrid Electric Vehicle (PHEV)
@@ -30,6 +32,7 @@ Plug-in Hybrid Electric Vehicle (PHEV)
 
 
 ## 1.2. 순수 전기차
+
 
 ### (1) 배터리 전기차
 Battery Electric Vehicle (BEV, Pure-EV)
