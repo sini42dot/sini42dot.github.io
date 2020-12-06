@@ -1,130 +1,41 @@
 ---
 layout: post
-title: How to Create Personal Website and Blog on GitHub
-subtitle: GitHub로 10분 만에 개인 웹사이트 및 블로그 만들기
+title: 전기차 3년 6.8만 km 시점의 느낌들 
+subtitle: – 집밥, 타이어, 신차 효과
 gh-repo: seokho-son/seokho-son.github.io
-gh-badge: [star, fork, follow]
-cover-img: /assets/img/cat-taesik-wide.jpg
-tags: [Website, Blog, GitHub, Guide, How to, Seokho Son, Open source]
-comments: true
+cover-img: https://d3jn14jkdoqvmm.cloudfront.net/wp/wp-content/uploads/2020/09/09164048/%EC%A0%84%EA%B8%B0%EC%B0%A8-3%EB%85%84-6.8%EB%A7%8C-km-%EC%8B%9C%EC%A0%90%EC%9D%98-%EB%8A%90%EB%82%8C%EB%93%A4-%EC%A7%91%EB%B0%A5-%EC%8B%A0%EC%B0%A8-%ED%9A%A8%EA%B3%BC-133.jpg
+tags: [실사용기, EV, 오너리뷰칼럼]
 ---
 
-## 개요
+## 전기차 출고 후 어느덧 6.8만 km 주행
 
-GitHub로 10분 만에 개인 웹사이트 및 블로그 만들어 보는 가이드를 제공합니다.
+아이오닉 일렉트릭을 2016년 7월에 신차로 출고하여, 어느덧 6.8만 km 을 주행하였다. 지난 마지막 포스팅이 2018년 4월 12일의 4.1만km, 2년 주행기였는데, 벌써 1년이 넘게 지났다는 것이 믿어지지 않는다. 지난 1년간 개인적으로 경험하였던 여러가지 일들의 밀도는 지금까지 살아온 동안 가장 높았던 것 같다. 1년 전의 당시 글을 반추해 보면 다음과 같은 포인트가 있었다.
 
-이 가이드를 활용하여,
+1. SOH 는 4.1만을 주행해도 멀쩡하다.
 
-개인의 연구 커리어 정리 사이트, 연구 프로젝트의 사이트, 기술 블로그 개설 등 다양한 활용이 가능합니다.
+2. 세차를 안해도 괜찮다.
 
-- Git는 분산 버전 관리 시스템 (DVCS, Distributed Version Control System)
-- GitHub는 Git를 사용하여 공동 개발하는 프로젝트의 저장소 관리 및 협업을 도와주는 서비스
-- GitHub Page란 GitHub가 정적 웹사이트를 무료로 호스팅하는 것을 의미 (계정당 1개)
+3. 순정 타이어는 아이오닉을 견디지 못한다.
+전기차에는 다만 저구름저항 타이어 보다,
+여러 파라미터가 좋은 타이어가 필요하다.
 
-{: .box-note}
-이 포스트는 오픈소스 프로젝트의 주요 개발 플랫폼인 GitHub 경험 차원에서,
-**ETRI 연구원** 을 위해 게시하였습니다. &#128525;
+4. 경량 휠에 대한 의견. 전기차에서 성능 개선 효과가 있을까?
 
+5. 전기차의 경제적 효과가 놀랍다.
+그리고 전기차는 사용을 해도 낡지 않는것
+같아 자동차 제조사는 고민이 많을 것이다.
 
-<br>
+![img](https://d3jn14jkdoqvmm.cloudfront.net/wp/wp-content/uploads/2020/09/09163252/%EC%A0%84%EA%B8%B0%EC%B0%A8-3%EB%85%84-6.8%EB%A7%8C-km-%EC%8B%9C%EC%A0%90%EC%9D%98-%EB%8A%90%EB%82%8C%EB%93%A4-%EC%A7%91%EB%B0%A5-%EC%8B%A0%EC%B0%A8-%ED%9A%A8%EA%B3%BC-2.jpg)
 
-## 데모 웹사이트
-
-이 가이드를 통해 10분 만에 아래 데모와 같이 웹사이트 개설이 가능합니다.
-
-데모 웹사이트 확인: [https://seokho-son.github.io](https://seokho-son.github.io)
-
-<br>
-
-## 웹사이트 생성 가이드
-
-이 저장소를 활용하여 개인 웹사이트를 생성하는 방법 가이드
-
-### 동영상 가이드
-
-[동영상 가이드: 약 10분](https://www.youtube.com/watch?v=UgPZXxL2jSw)
-
-<iframe width="770" height="432" src="https://www.youtube.com/embed/UgPZXxL2jSw" frameborder="0" allowfullscreen></iframe>
-
-<br>
-
-### 간단 GIF 가이드
-
-가이드를 19 단계의 애니메이션으로 표현
-
-![간단 가이드](../assets/img/simple-guide.gif)
-
-<br>
-
-### 상세 설명
-
-1. GitHub 계정이 없는 경우, GitHub 계정을 생성하고 이메일 인증을 수행합니다.
-
-   1. GitHub 계정 생성
-      ![GitHub 계정 생성](../assets/img/githubpage-guide/p1.jpg)
-
-   1. GitHub 계정 이메일 인증
-      ![GitHub 계정 이메일 인증](../assets/img/githubpage-guide/p2.jpg)
-
-1. 웹사이트의 기본 소스를 제공하는 GitHub 저장소에 접속하고, `Fork` 를 통해 해당 저장소를 본인의 GitHub 계정으로 복제합니다.
-
-    1. [https://github.com/seokho-son/seokho-son.github.io](https://github.com/seokho-son/seokho-son.github.io) 저장소에 접속
-       ![GitHub 저장소 접속](../assets/img/githubpage-guide/g2.jpg)
-
-    1. [https://seokho-son.github.io](https://seokho-son.github.io) 접속을 통해 데모 웹사이트 확인
-       ![GitHub Page 접속](../assets/img/githubpage-guide/g1.jpg)
-
-    1. GitHub의 `Fork` 기능을 통해 저장소를 본인의 GitHub 계정으로 복제
-       ![GitHub 포크](../assets/img/githubpage-guide/g3.jpg)
-
-       `Fork` 는 Git 저장소를 복제 및 기존 저장소와 연계시키는 기능 (보통 공동 작업을 위한 방법)
-
-    1. 본인 계정에 복제된 저장소 확인
-       ![GitHub 포크 확인](../assets/img/githubpage-guide/g5.jpg)
-
-1. GitHub Page 활성화를 위해 저장소 명칭 변경
-
-    1. `Settings` 탭을 선택하고 `Repository name` 을 `계정이름.github.io` 로 변경
-        ![저장소 이름 변경](../assets/img/githubpage-guide/g7.jpg)
-
-    GitHub는 `계정이름.github.io` 인 저장소에 대해 자동으로 소스코드 빌드 및 호스팅을 수행함
-
-    1. 자동 생성된 웹사이트 확인
-        ![자동 생성 웹사이트 확인](../assets/img/githubpage-guide/g8.jpg)
+이제, 삶의 터전은 수도권으로 옮겨지게 되었고,
+올 3월부터는 매일 근무시간이 상당히 길어졌으므로
+적산거리계는 최근 2개월 간은 상당히 정체를 보이고 있다.
 
 
-1. 자신의 웹사이트로 내용 커스터마이징
+![img](https://d3jn14jkdoqvmm.cloudfront.net/wp/wp-content/uploads/2020/09/09163249/%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A1-3%E1%84%82%E1%85%A7%E1%86%AB-6.8%E1%84%86%E1%85%A1%E1%86%AB-km-%E1%84%89%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%B7%E1%84%8B%E1%85%B4-%E1%84%82%E1%85%B3%E1%84%81%E1%85%B5%E1%86%B7%E1%84%83%E1%85%B3%E1%86%AF-%E1%84%8C%E1%85%B5%E1%86%B8%E1%84%87%E1%85%A1%E1%86%B8-%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8E%E1%85%A1-%E1%84%92%E1%85%AD%E1%84%80%E1%85%AA-1.jpg)
 
-    1. `_config.yml` 파일을 선택하여 내용 수정 및 저장소에 수정 사항 반영
+### 집밥은 중요하다
+금년에 거주지를 수도권으로 올기면서 가장 피부로 와닫는 점은, 집밥이 없는 전기차 라이프는 상당히 힘들다는 것이다. 현재 세 들어 사는 집과 직장 (50km 떨어져 있음) 에는 모두 충전기가 없고, 집의 관리사무소는 완강하게 수 개월째 충전기 (파워큐브 포함) 설치를 거절하고 있는 상황으로 주로 공공 급속충전기를 사용하여야 하므로, 상당한 시간 (20%->90% 까지 30분 가까이 소요) 과 비용 (비공용 파워큐브 대비 2배 이상의 지출) 소요가 발생한다.
+​
+급속 충전이 빠르고 전비가 좋은 아이오닉이니 그나마 이정도이지, 최근의 대용량 배터리 차량이었다면 오히려 충전 시간이 길어지면서 불편함이 더 심하게 느껴졌을 수도 있지 않았을까 하는 생각도 든다. 과거 본 블로그에서 여러차례 언급한 바와 같이 심야에 저속으로 충전하여 아침에 집을 나설때는 늘 100%가 되어 있는 환경을 구축하는 것이 여러 측면에서 지속가능하고 쾌적한 전기차 라이프에 중요한 요인이 되겠다.
 
-        `_config.yml` 파일은 웹사이트의 설정 정보가 포함되어 있음. `수정필요` 로 코멘트된 사항에 대해 커스터마이징 진행.
-
-        ![컨피그 확인](../assets/img/githubpage-guide/g9.jpg)
-
-        ![컨피그 수정](../assets/img/githubpage-guide/g10.jpg)
-
-        ![컨피그 수정2](../assets/img/githubpage-guide/g11.jpg)
-
-        ![컨피그 커밋](../assets/img/githubpage-guide/g12.jpg)
-
-        `Commit` (`git commit`)은 어려가지 변경 사항에 대한 스넵샷을 제공하는 기능임. 수정 사항을 저장소에 반영하기 위해서는 `Commit` 이라는 행위를 필수적으로 수행해야 함.
-
-    1. `index.md` 파일을 선택하여 내용 수정 및 저장소에 수정 사항 반영
-
-        ![인덱스 확인](../assets/img/githubpage-guide/g13.jpg)
-
-        ![인덱스 수정](../assets/img/githubpage-guide/g14.jpg)
-
-        ![인덱스 커밋](../assets/img/githubpage-guide/g15.jpg)
-
-        `index.md` 는 웹사이트에서 첫 페이지(`home`)의 소스 파일임. 커스터마이징 진행.
-
-        `.md` 파일은 [마크다운 언어](https://ko.wikipedia.org/wiki/마크다운)으로 작성되는 것을 의미함.
-
-    1. `carrer.md` , `publication.md` 등 `*.md` 에 대해서도 커스터마이징 진행
-
-
-1. 내용이 업데이트된 웹사이트 최종 확인
-    ![업데이트된 웹사이트](../assets/img/githubpage-guide/g17.jpg)
-
-끝.
