@@ -19,7 +19,6 @@ navbar-links:
   보조금 지원: "Support"
   안전 및 유지관리: "Safety and maintenance"
   Blog: "blog"
-  Project: "project"
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
 # avatar: "/assets/img/seokho-square-2.jpg"
@@ -87,8 +86,8 @@ navbar-col: "#000000"
 navbar-text-col: "#FFFFFF"
 navbar-border-col: "#EAEAEA"
 page-col: "#FFFFFF"
-link-col: "#564DF0"
-hover-col: "#2C30A8"
+link-col: "#B7B9BE"
+hover-col: "#B7B9BE"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#564DF0"
