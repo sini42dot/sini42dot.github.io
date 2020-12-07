@@ -14,14 +14,15 @@
 [(2) 수소차](https://www.notion.so/2-de9adfc90de04ccc8fda44869e14684b)
 
 <br/>
+
 ## 4.3. 보조금 신청 절차
---
 *2020년 기준
---
+
 구매자는 차량구매대금과 보조금의 차액을 자동차 제조‧수입사에 납부하고, 자동차 제조‧수입사는 지방자치단체(국비보조금+지방비보조금)로부터 보조금 수령
 ![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3198ecfe-2861-4236-8047-f6aefe1e7403/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201206%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201206T231009Z&X-Amz-Expires=86400&X-Amz-Signature=f4a6ef1086cc429f43e11d287386a6c457abcfb4647ff5417f427c9b5d5da2d2&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
 <br/>
+
 ## 4.4. 보조금 현황
 
-### 5.4.1 승용 및 초소형 전기자동차의 국고 보조금
+### 4.4.1 승용 및 초소형 전기자동차의 국고 보조금
