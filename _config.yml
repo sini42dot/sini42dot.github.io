@@ -13,7 +13,6 @@ author: eVIBE
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
 navbar-links:
   전기 자동차의 종류: "type"
-  전기 자동차의 특징: "feature"
   전기 자동차의 충전: "charge"
   구매시 고려사항: "consideration"
   보조금 지원: "support"
