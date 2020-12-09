@@ -59,10 +59,10 @@ Fuel Cell Electric Vehicle (FCEV)
   
 # 전기차 종류별 특징
 
-| 구분 | 내연 엔진 기관 | 마일드 하이브리드<br>전기차 | 하이브리드<br>전기차 | 플러그 인 하이브리드<br>전기차 | 배터리<br>전기차 | 수소 연료 전지<br>전기차
-| :------: |:------: | :------: | :------: |:------: | :------: | :------:
+| 구분 | 내연 엔진 기관 | 마일드 하이브리드<br>전기차 | 하이브리드<br>전기차 | 플러그 인 하이브리드<br>전기차 | 배터리<br>전기차 | 수소 연료 전지<br>전기차 | 
+| :------: |:------: | :------: | :------: |:------: | :------: | :------: | 
 | 에너지원 | 가솔린 | 가솔린 + 전기,엔진 | 가솔린 + 전기 | 가솔린 + 전기 | 전기 | 수소+산소 
-| 구동원 | 엔진 | 엔진 + 배터리<br>+ 전기 모터 | 엔진 + 배터리<br>+ 전기 모터 | 엔진 + 배터리<br>+ 전기 모터 | 배터리<br>+ 전기 모터 | 연료 배터리 
+| 구동원 | 엔진 | 엔진 + 배터리<br>+ 전기 모터 | 엔진 + 배터리<br>+ 전기 모터 | 엔진 + 배터리<br>+ 전기 모터 | 배터리<br>+ 전기 모터 | 연료 배터리 | 
 | 급전 | X | X | O | O | O | O | 
 | 전압 시스템 | 12V | 48V | 200V ~ | 200V ~ | 200V ~ |  | 
 | 배터리 전압 | X | 100 ~ 200V | 300 ~ 400V | 300~400V |  |  | 
@@ -93,11 +93,11 @@ Fuel Cell Electric Vehicle (FCEV)
   
 ### (1) 아이오닉 EV
 
-<img src="/assets/img/type_car_ioniq.png" width="80%" title="ioniq" alt="ioniq"></img>
+<img src="/assets/img/type_car_ioniq.png" width="80%" title="ioniq" alt="ioniq">
 
 (차종 : 아이오닉 Electric )
 | 구분 | Q & N |
-| :------: | :------: |
+| :----: | :----: |
 | 전장 X 전폭 X 전고 (mm) | 4,470 X 1,820 X 1,474 |
 | 축거 (mm) | 2,700 |
 | 윤거(전/후)(mm) | 1,552 / 1,564 |
@@ -113,7 +113,7 @@ Fuel Cell Electric Vehicle (FCEV)
  
 ### (2) 코나 EV
 
-<img src="/assets/img/type_car_kona.png" width="80%" title="kona" alt="kona"></img>
+<img src="/assets/img/type_car_kona.png" width="80%" title="kona" alt="kona">
 
 (차종 : 코나 Electric 프리미엄)
 | 구분 | 저용량 | 고용량 |
@@ -134,7 +134,7 @@ Fuel Cell Electric Vehicle (FCEV)
 
 ### (1) 니로 EV
 
-<img src="assets/img/type_car_niro.png" width="80%" title="niro" alt="niro"></img>{: .mx-auto.d-block :}
+<img src="assets/img/type_car_niro.png" width="80%" title="niro" alt="niro">
 
 (차종 : 니로 EV)
 | 구분 | 프레스티지 & 노블레스 |
@@ -153,7 +153,7 @@ Fuel Cell Electric Vehicle (FCEV)
   
  ### (2) 소울 EV
 
-<img src="assets/img/type_car_soul.png" width="80%" title="soul" alt="soul"></img>
+<img src="assets/img/type_car_soul.png" width="80%" title="soul" alt="soul">
 
 (차종 : 소울 EV)
 | 구분 | 프레스티지 | 노블레스 |
