@@ -1,10 +1,8 @@
-<br>
-<a href = "#type_type"> 전기차의 종류 </a>
-<br>
-<a href = "#type_feature"> 기차 종류별 특징 </a>
-<br>
-<a href = "#type_doemsticev_ioniq"> 전기차의 종류 </a>
-<br>
+<ui style="position:fixed;left: 3em; top:12em;">
+  <li><a href = "#type_type"> 전기차의 종류 </a></li>
+  <li><a href = "#type_feature"> 기차 종류별 특징 </a></li>
+  <li><a href = "#type_doemsticev"> 국내 전기 자동차 </a></li>
+</ui>
 
 <p id = "type_type"></p>
 
