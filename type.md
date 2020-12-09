@@ -1,33 +1,35 @@
-<ui style="position:fixed;left: 3em; top:12em;">
-  <li><a href = "#type_type"><bold>전기차의 종류</bold></a></li>
+<div style="position:fixed; left:3em; top:10em; font-size:1em; color:black; text-decoration:none;">
     <ui>
-        <li><a href = "#type_type_hev">1. 하이브리드 전기차</a></li>
-            <ui>
-                <li><a href = "#type_type_hev_mhev">(1) 마일드 하이브리드 전기차</a></li>
-                <li><a href = "#type_type_hev_hev">(2) 하이브리드 전기차</a></li>
-                <li><a href = "#type_type_hev_phev">(3) 플러그인 하이브리드 전기차</a></li>
-            </ui>
-        <li><a href = "#type_type_pureev"> 2. 순수 전기차</a></li> 
-            <ui>
-                <li><a href = "#type_type_pureev_bev">(1) 배터리 전기차</a></li>
-                <li><a href = "#type_type_pureev_fcev">(2) 수소 전기차</a></li>
-            </ui>
-    </ui>
-  <li><a href = "#type_feature"><bold>기차 종류별 특징 </bold></a></li>
-  <li><a href = "#type_doemsticev" style="text-decoration: bold;"><bold>국내 전기 자동차</bold></a></li>
-    <ui>
-        <li><a href = "#type_doemsticev_hyundai"> 1. 현대 자동차 </a></li>
-            <ui>
-                <li><a href = "#type_doemsticev_hyundai_ioniq"> (1) 아이오닉 EV </a></li>
-                <li><a href = "#type_doemsticev_hyundai_kona"> (2) 코나 EV </a></li> 
-            </ui>
-        <li><a href = "#type_doemsticev_kia"> 2. 기아 자동차 </a></li>
-            <ui>
-                <li><a href = "#type_doemsticev_kia_niro"> (1) 니로 EV </a></li>
-                <li><a href = "#type_doemsticev_kia_soul"> (2) 소울 EV </a></li> 
-            </ui>
-    </ui>
-</ui>
+        <li><a href = "#type_type"><bold>전기차의 종류</bold></a></li>
+          <ui>
+              <li><a href = "#type_type_hev">1. 하이브리드 전기차</a></li>
+                  <ui>
+                      <li><a href = "#type_type_hev_mhev">(1) 마일드 하이브리드 전기차</a></li>
+                      <li><a href = "#type_type_hev_hev">(2) 하이브리드 전기차</a></li>
+                      <li><a href = "#type_type_hev_phev">(3) 플러그인 하이브리드 전기차</a></li>
+                  </ui>
+              <li><a href = "#type_type_pureev"> 2. 순수 전기차</a></li> 
+                  <ui style="margin-left: 4em;">
+                      <li><a href = "#type_type_pureev_bev">(1) 배터리 전기차</a></li>
+                      <li><a href = "#type_type_pureev_fcev">(2) 수소 전기차</a></li>
+                  </ui>
+          </ui>
+        <li><a href = "#type_feature"><bold>기차 종류별 특징 </bold></a></li>
+        <li><a href = "#type_doemsticev" style="text-decoration: bold;"><bold>국내 전기 자동차</bold></a></li>
+          <ui>
+              <li><a href = "#type_doemsticev_hyundai"> 1. 현대 자동차 </a></li>
+                  <ui style="margin-left: 4em;">
+                      <li><a href = "#type_doemsticev_hyundai_ioniq"> (1) 아이오닉 EV </a></li>
+                      <li><a href = "#type_doemsticev_hyundai_kona"> (2) 코나 EV </a></li> 
+                  </ui>
+              <li><a href = "#type_doemsticev_kia"> 2. 기아 자동차 </a></li>
+                  <ui style="margin-left: 4em;">
+                      <li><a href = "#type_doemsticev_kia_niro"> (1) 니로 EV </a></li>
+                      <li><a href = "#type_doemsticev_kia_soul"> (2) 소울 EV </a></li> 
+                  </ui>
+          </ui>
+      </ui>
+</div>
 
 <p id = "type_type"></p>
 
