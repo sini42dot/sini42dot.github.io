@@ -77,8 +77,6 @@ Fuel Cell Electric Vehicle (FCEV)
 # 국내 전기 자동차
 
 ## 1. 현대 자동차
-
-<p id = "type_doemsticev_ioniq">
   
 ### (1) 아이오닉 EV
 
