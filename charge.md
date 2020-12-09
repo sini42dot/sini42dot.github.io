@@ -1,4 +1,4 @@
-<ui>
+<ui style="position:fixed;left: 3em; top:10em; font-size: 0.8em;">
     <li><a href = "#charge_type"><bold>1. 충전 유형</bold></a></li>
     <li><a href = "#charge_charger"><bold>2. 충전기 유형</bold></a></li>
     <li><a href = "#charge_connector"><bold>3. 충전 커넥터 유형</bold></a></li>
