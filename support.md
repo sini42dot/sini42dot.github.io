@@ -1,8 +1,8 @@
 <ui style="position:fixed;left: 3em; top:10em; font-size: 0.8em;">
     <li><a href = "#support_who"><bold>1. 보조금 지원 대상</bold></a></li>
-    <li><a href = "#charge_car"><bold>2. 보조금 지원 차량</bold></a></li>
-    <li><a href = "#charge_howto"><bold>3. 보조금 신청 절차</bold></a></li>
-    <li><a href = "#charge_news"><bold>4. 보조금 현황</bold></a></li>
+    <li><a href = "#support_car"><bold>2. 보조금 지원 차량</bold></a></li>
+    <li><a href = "#support_howto"><bold>3. 보조금 신청 절차</bold></a></li>
+    <li><a href = "#support_news"><bold>4. 보조금 현황</bold></a></li>
 </ui>
 
 # 보조금 지원 
