@@ -18,7 +18,7 @@
         <li><a href = "#type_doemsticev" style="text-decoration: bold;"><bold>3. 국내 전기 자동차</bold></a></li>
           <ui>
               <li><a href = "#type_doemsticev_hyundai"> 3.1. 현대 자동차 </a></li>
-                  <ui style="margin-left: 4em;">
+                  <ui>
                       <li><a href = "#type_doemsticev_hyundai_ioniq"> (1) 아이오닉 EV </a></li>
                       <li><a href = "#type_doemsticev_hyundai_kona"> (2) 코나 EV </a></li> 
                   </ui>
