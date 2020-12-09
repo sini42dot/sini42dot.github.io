@@ -109,6 +109,7 @@ Fuel Cell Electric Vehicle (FCEV)
 ![kona](/assets/img/type_car_kona.png)
 
 (차종 : 코나 Electric 프리미엄)
+
 | 구분 | 저용량 | 고용량 |
 | :------: | :------: | :------: |
 | 전장 X 전폭 X 전고 (mm) | 4,180 X 1,800 X 1,570 | 4,180 X 1,800 X 1,570 |
@@ -131,8 +132,9 @@ Fuel Cell Electric Vehicle (FCEV)
 ![niro](/assets/img/type_car_niro.png)
 
 (차종 : 니로 EV)
+
 | 구분 | 프레스티지 & 노블레스 |
-| :------: |:------: |
+| :------: | :------------: | 
 | 전장 X 전폭 X 전고 (mm) | 4,375 X 1,805 X 1,570 |
 | 축거 (mm) | 2,700 |
 | 윤거(전/후)(mm) | 1,562 / 1,572 |
@@ -142,7 +144,7 @@ Fuel Cell Electric Vehicle (FCEV)
 | 배터리 용량 (kWh) | 64 |
 | 1회 충전 주행거리 (km) | 385 |
 | 전비 (km/kWh) | 복합 5.3 (도심 : 5.8, 고속도로 : 4.9) |
-| 급속 충전 시간 (~80%)     | 약 54분 (100kW 기준) |
+| 급속 충전 시간 (~80%) | 약 54분 (100kW 기준) |
 
 <BR>
   
@@ -151,6 +153,7 @@ Fuel Cell Electric Vehicle (FCEV)
 ![soul](/assets/img/type_car_soul.png)
 
 (차종 : 소울 EV)
+
 | 구분 | 프레스티지 | 노블레스 |
 | :------: | :------: | :------: |
 | 전장 X 전폭 X 전고 (mm) | 4,195 X 1,800 X 1,605 | 4,195 X 1,800 X 1,605 |
