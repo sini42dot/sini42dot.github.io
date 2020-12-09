@@ -93,7 +93,7 @@ Fuel Cell Electric Vehicle (FCEV)
   
 ### (1) 아이오닉 EV
 
-<img src="/assets/img/type_car_ioniq.png" width="80%" title="ioniq" alt="ioniq"></img>{: .mx-auto.d-block :}
+<img src="/assets/img/type_car_ioniq.png" width="80%" title="ioniq" alt="ioniq"></img>
 
 (차종 : 아이오닉 Electric )
 | 구분 | Q & N |
@@ -113,7 +113,7 @@ Fuel Cell Electric Vehicle (FCEV)
  
 ### (2) 코나 EV
 
-<img src="/assets/img/type_car_cona.png" width="80%" title="ioniq" alt="ioniq"></img>{: .mx-auto.d-block :}
+<img src="/assets/img/type_car_kona.png" width="80%" title="kona" alt="kona"></img>
 
 (차종 : 코나 Electric 프리미엄)
 | 구분 | 저용량 | 고용량 |
@@ -153,13 +153,13 @@ Fuel Cell Electric Vehicle (FCEV)
   
  ### (2) 소울 EV
 
-<img src="assets/img/type_car_soul.png" width="80%" title="niro" alt="niro"></img>{: .mx-auto.d-block :}
+<img src="assets/img/type_car_soul.png" width="80%" title="soul" alt="soul"></img>
 
 (차종 : 소울 EV)
 | 구분 | 프레스티지 | 노블레스 |
 | :------: | :------: | :------: |
 | 전장 X 전폭 X 전고 (mm) | 4,195 X 1,800 X 1,605 | 4,195 X 1,800 X 1,605 |
-| 축거 (mm)               | 2,600 | 2,600 |
+| 축거 (mm) | 2,600 | 2,600 |
 | 윤거(전/후)(mm)          | 1,565 / 1,575 | 1,565 / 1,575 |
 | 공차중량 (kg)            | 	1,555  | 1,695  |
 | 최고출력                 | 136 ps / 100 Kw | 204 ps / 150 Kw |
