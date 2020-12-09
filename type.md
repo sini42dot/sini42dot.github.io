@@ -72,15 +72,19 @@ Fuel Cell Electric Vehicle (FCEV)
 | 정지 | 엔진 | 회생 제동<br>에너지 충전 | 회생 제동<br>에너지 충전 | 회생 제동<br>에너지 충전 | 회생 제동<br>에너지 충전 | 회생 제동<br>에너지 충전 | 
 | 감속 | 엔진 | 엔진 + 자동 정지 | 엔진 + 자동 정지 | 엔진 + 자동 정지 | 전기 모터 | 전기 모터 | 
 
-
+<BR>
   
 # 국내 전기 자동차
+
+<BR>
 
 ## 1. 현대 자동차
   
 ### (1) 아이오닉 EV
 
 <img src="/assets/img/type_car_ioniq.png" width="80%" title="ioniq" alt="ioniq">
+
+<BR>
 
 (차종 : 아이오닉 Electric )
 | 구분 | Q & N |
@@ -97,10 +101,13 @@ Fuel Cell Electric Vehicle (FCEV)
 | 급속 충전 시간 (~80%) | 약 54분 (100kW 기준) |
 | 완속 충전 시간 (~100%) | 약 6시간 5분 |
 
+<BR>
  
 ### (2) 코나 EV
 
 <img src="/assets/img/type_car_kona.png" width="80%" title="kona" alt="kona">
+
+<BR>
 
 (차종 : 코나 Electric 프리미엄)
 | 구분 | 저용량 | 고용량 |
@@ -116,12 +123,15 @@ Fuel Cell Electric Vehicle (FCEV)
 | 전비 (km/kWh)           | 복합 5.8 (도심 : 6.5, 고속도로 : 5.1) | 복합 5.6 (도심 : 6.2, 고속도로 : 5)  |
 | 급속 충전 시간 (~80%)     | 약 54분  | 약 54분  |
 
+<BR>
   
 ## 2. 기아 자동차
 
 ### (1) 니로 EV
 
 <img src="assets/img/type_car_niro.png" width="80%" title="niro" alt="niro">
+
+<BR>
 
 (차종 : 니로 EV)
 | 구분 | 프레스티지 & 노블레스 |
@@ -137,10 +147,13 @@ Fuel Cell Electric Vehicle (FCEV)
 | 전비 (km/kWh)           | 복합 5.3 (도심 : 5.8, 고속도로 : 4.9)   |
 | 급속 충전 시간 (~80%)     | 약 54분 (100kW 기준) |
 
+<BR>
   
- ### (2) 소울 EV
+### (2) 소울 EV
 
 <img src="assets/img/type_car_soul.png" width="80%" title="soul" alt="soul">
+
+<BR>
 
 (차종 : 소울 EV)
 | 구분 | 프레스티지 | 노블레스 |
