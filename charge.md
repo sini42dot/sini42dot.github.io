@@ -97,7 +97,7 @@
 
 국내에서 사용하는 충전 방식에 따른 충전기 커넥터는 표준은 크게 4가지로 **AC 단상 5핀, AC3상 7핀, DC 차데모, DC 콤보 7핀**이다. 
 
-![connector](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1920d44f-5e2c-44c1-97f6-3c4511c3a323/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201207%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201207T061259Z&X-Amz-Expires=86400&X-Amz-Signature=93164c00ea63a411c0a0249ace186f605575c2580b21d13386dac96c49fc0dbe&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22){: .mx-auto.d-block :}
+![connector](assets/img/charge.png){: .mx-auto.d-block :}
 
 <br>
 
