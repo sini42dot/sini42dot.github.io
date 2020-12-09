@@ -56,6 +56,7 @@ Fuel Cell Electric Vehicle (FCEV)
 <BR>
 
 <p id = "type_feature">
+  
 # 전기차 종류별 특징
 
 | 구분 | 내연 엔진 기관 | 마일드 하이브리드<br>전기차 | 하이브리드<br>전기차 | 플러그 인 하이브리드<br>전기차 | 배터리<br>전기차 | 수소 연료 전지<br>전기차 | 
@@ -81,12 +82,15 @@ Fuel Cell Electric Vehicle (FCEV)
 <BR>
 ***
 <BR>
+  
 <p id = "type_doemsticev">
+  
 # 국내 전기 자동차
 
 ## 1. 현대 자동차
 
 <p id = "type_doemsticev_ioniq">
+  
 ### (1) 아이오닉 EV
 
 <img src="/assets/img/type_car_ioniq.png" width="80%" title="ioniq" alt="ioniq"></img>{: .mx-auto.d-block :}
