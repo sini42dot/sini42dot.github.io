@@ -14,7 +14,7 @@ Mild Hybrid Electric Vehicle (Mild-HEV)
 
 <BR>
 
-### (2) 마일드 하이브리드 전기차 
+### (2) 하이브리드 전기차 
 Hybrid Electric Vehicle (HEV, Full HEV)
 * 내연 기관 엔진 차량과 전기 자동차의 혼합(hybrid) 형태
 * 출발과 저속 주행에서도 단독으로 전기 모터가 차량을 구동시키는 것이 가능하기 때문에 ‘완전한(full)’ 하이브리드라 불림
