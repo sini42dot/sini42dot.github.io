@@ -4,9 +4,9 @@
     <li><a href = "#charge_connector"><bold>3. 충전 커넥터 유형</bold></a></li>
 </ui>
 
-<p id = "charge_type"></p>
-
 # 전기 자동차의 충전
+
+<p id = "charge_type"></p>
 
 ## 1. 충전 유형
 국내 전기 자동차 충전 방식은 충전 속도에 따라 완속 충전과 급속 충전으로 분류하여 볼 수 있다.
