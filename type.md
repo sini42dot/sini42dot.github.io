@@ -1,4 +1,4 @@
-<div style="position:fixed;left: 3em; top:10em; font-size: 1em; color: black; text-decoration: none;">
+<div style="position:fixed;left: 3em; top:10em; font-size: 0.8em;">
     <ui>
         <li><a href = "#type_type"><bold>1. 전기차의 종류</bold></a></li>
           <ui>
