@@ -1,28 +1,28 @@
-<div style="position:fixed; left:3em; top:10em; font-size:1em; color:black; text-decoration:none;">
+<div style="position:fixed;left: 3em; top:8em; font-size: 1em; color: black; text-decoration: none;">
     <ui>
-        <li><a href = "#type_type"><bold>전기차의 종류</bold></a></li>
+        <li><a href = "#type_type"><bold>1. 전기차의 종류</bold></a></li>
           <ui>
-              <li><a href = "#type_type_hev">1. 하이브리드 전기차</a></li>
+              <li><a href = "#type_type_hev">1.1 하이브리드 전기차</a></li>
                   <ui>
                       <li><a href = "#type_type_hev_mhev">(1) 마일드 하이브리드 전기차</a></li>
                       <li><a href = "#type_type_hev_hev">(2) 하이브리드 전기차</a></li>
                       <li><a href = "#type_type_hev_phev">(3) 플러그인 하이브리드 전기차</a></li>
                   </ui>
-              <li><a href = "#type_type_pureev"> 2. 순수 전기차</a></li> 
+              <li><a href = "#type_type_pureev">1.2 순수 전기차</a></li> 
                   <ui style="margin-left: 4em;">
                       <li><a href = "#type_type_pureev_bev">(1) 배터리 전기차</a></li>
                       <li><a href = "#type_type_pureev_fcev">(2) 수소 전기차</a></li>
                   </ui>
           </ui>
-        <li><a href = "#type_feature"><bold>기차 종류별 특징 </bold></a></li>
-        <li><a href = "#type_doemsticev" style="text-decoration: bold;"><bold>국내 전기 자동차</bold></a></li>
+        <li><a href = "#type_feature"><bold>2. 기차 종류별 특징 </bold></a></li>
+        <li><a href = "#type_doemsticev" style="text-decoration: bold;"><bold>3. 국내 전기 자동차</bold></a></li>
           <ui>
-              <li><a href = "#type_doemsticev_hyundai"> 1. 현대 자동차 </a></li>
+              <li><a href = "#type_doemsticev_hyundai"> 3.1. 현대 자동차 </a></li>
                   <ui style="margin-left: 4em;">
                       <li><a href = "#type_doemsticev_hyundai_ioniq"> (1) 아이오닉 EV </a></li>
                       <li><a href = "#type_doemsticev_hyundai_kona"> (2) 코나 EV </a></li> 
                   </ui>
-              <li><a href = "#type_doemsticev_kia"> 2. 기아 자동차 </a></li>
+              <li><a href = "#type_doemsticev_kia"> 3.2. 기아 자동차 </a></li>
                   <ui style="margin-left: 4em;">
                       <li><a href = "#type_doemsticev_kia_niro"> (1) 니로 EV </a></li>
                       <li><a href = "#type_doemsticev_kia_soul"> (2) 소울 EV </a></li> 
@@ -33,12 +33,12 @@
 
 <p id = "type_type"></p>
 
-# 전기 자동차의 종류 
+# 1. 전기 자동차의 종류 
 전기 자동차(EV, Electric Vehicle)는 가솔린이나 디젤과 같은 화석 연료 사용량을 줄이고 전기 에너지를 동력원으로 이용하기 때문에 지속가능한 친환경 자동차로 각광 받고 있다. 전기 자동차의 연비 효율성과 친환경성에 비해 높은 초기 비용, 짧은 주행 거리에 대한 단점을 보완 위해 순수 전기차 외의 하이브리드 전기차 역시 전기차의 일종으로  전기 자동차는 공급 방식이나 에너지 사용 비율에 따라 구분된다. 
 
 <p id = "type_type_hev"></p>
 
-## 1. 하이브리드 전기차
+## 1.1. 하이브리드 전기차
 
 <p id = "type_type_hev_mhev"></p>
 
@@ -74,7 +74,7 @@ Plug-in Hybrid Electric Vehicle (PHEV)
 
 <p id = "type_type_pureev"></p>
 
-## 2. 순수 전기차
+## 1.2. 순수 전기차
 
 <p id = "type_type_pureev_bev"></p>
 
@@ -99,7 +99,7 @@ Fuel Cell Electric Vehicle (FCEV)
   
 <p id = "type_feature"></p>
 
-# 전기차 종류별 특징
+# 2. 전기차 종류별 특징
 
 | 구분 | 내연 엔진 기관 | 마일드 하이브리드<br>전기차 | 하이브리드<br>전기차 | 플러그 인 하이브리드<br>전기차 | 배터리<br>전기차 | 수소 연료 전지<br>전기차 | 
 | :------: | :------: | :------: | :------: |:------: | :------: | :------: | 
@@ -125,11 +125,11 @@ Fuel Cell Electric Vehicle (FCEV)
   
 <p id = "type_doemsticev"></p>
 
-# 국내 전기 자동차
+# 3. 국내 전기 자동차
 
 <p id = "type_doemsticev_hyundai"></p>
 
-## 1. 현대 자동차
+## 3.1. 현대 자동차
   
 <p id = "type_doemsticev_hyundai_ioniq"></p>
 
@@ -180,7 +180,7 @@ Fuel Cell Electric Vehicle (FCEV)
 
 <p id = "type_doemsticev_kia"></p>
 
-## 2. 기아 자동차
+## 3.2. 기아 자동차
 
 <p id = "type_doemsticev_kia_niro"></p>
 
