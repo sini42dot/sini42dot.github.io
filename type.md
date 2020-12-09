@@ -1,4 +1,4 @@
-<div style="position:fixed;left: 3em; top:8em; font-size: 1em; color: black; text-decoration: none;">
+<div style="position:fixed;left: 3em; top:10em; font-size: 1em; color: black; text-decoration: none;">
     <ui>
         <li><a href = "#type_type"><bold>1. 전기차의 종류</bold></a></li>
           <ui>
@@ -9,7 +9,7 @@
                       <li><a href = "#type_type_hev_phev">(3) 플러그인 하이브리드 전기차</a></li>
                   </ui>
               <li><a href = "#type_type_pureev">1.2 순수 전기차</a></li> 
-                  <ui style="margin-left: 4em;">
+                  <ui >
                       <li><a href = "#type_type_pureev_bev">(1) 배터리 전기차</a></li>
                       <li><a href = "#type_type_pureev_fcev">(2) 수소 전기차</a></li>
                   </ui>
@@ -23,7 +23,7 @@
                       <li><a href = "#type_doemsticev_hyundai_kona"> (2) 코나 EV </a></li> 
                   </ui>
               <li><a href = "#type_doemsticev_kia"> 3.2. 기아 자동차 </a></li>
-                  <ui style="margin-left: 4em;">
+                  <ui style="left: 4em;">
                       <li><a href = "#type_doemsticev_kia_niro"> (1) 니로 EV </a></li>
                       <li><a href = "#type_doemsticev_kia_soul"> (2) 소울 EV </a></li> 
                   </ui>
