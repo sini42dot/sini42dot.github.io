@@ -82,8 +82,7 @@ Fuel Cell Electric Vehicle (FCEV)
   
 ### (1) 아이오닉 EV
 
-
-<BR>
+![ioniq](/assets/img/type_car_ioniq.png)
 
 (차종 : 아이오닉 Electric )
 
@@ -107,7 +106,7 @@ Fuel Cell Electric Vehicle (FCEV)
  
 ### (2) 코나 EV
 
-<BR>
+![kona](/assets/img/type_car_kona.png)
 
 (차종 : 코나 Electric 프리미엄)
 | 구분 | 저용량 | 고용량 |
@@ -129,7 +128,7 @@ Fuel Cell Electric Vehicle (FCEV)
 
 ### (1) 니로 EV
 
-<BR>
+![niro](/assets/img/type_car_niro.png)
 
 (차종 : 니로 EV)
 | 구분 | 프레스티지 & 노블레스 |
@@ -149,7 +148,7 @@ Fuel Cell Electric Vehicle (FCEV)
   
 ### (2) 소울 EV
 
-<BR>
+![soul](/assets/img/type_car_soul.png)
 
 (차종 : 소울 EV)
 | 구분 | 프레스티지 | 노블레스 |
