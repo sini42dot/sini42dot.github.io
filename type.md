@@ -34,7 +34,7 @@
 <p id = "type_type"></p>
 
 # 1. 전기 자동차의 종류 
-전기 자동차(EV, Electric Vehicle)는 가솔린이나 디젤과 같은 화석 연료 사용량을 줄이고 전기 에너지를 동력원으로 이용하기 때문에 지속가능한 친환경 자동차로 각광 받고 있다. 전기 자동차의 연비 효율성과 친환경성에 비해 높은 초기 비용, 짧은 주행 거리에 대한 단점을 보완 위해 순수 전기차 외의 하이브리드 전기차 역시 전기차의 일종으로  전기 자동차는 공급 방식이나 에너지 사용 비율에 따라 구분된다. 
+전기 자동차(EV, Electric Vehicle)는 가솔린이나 디젤과 같은 화석 연료 사용량을 줄이고 전기 에너지를 동력원으로 이용하기 때문에 지속가능한 친환경 자동차로 각광 받고 있다. 전기 자동차의 연비 효율성과 친환경성에 비해 높은 초기 비용, 짧은 주행 거리에 대한 단점을 보완 위해 순수 전기차 외의 하이브리드 전기차 역시 전기차의 일종으로 전기 자동차는 공급 방식이나 에너지 사용 비율에 따라 구분된다. 
 
 <p id = "type_type_hev"></p>
 
@@ -137,8 +137,6 @@ Fuel Cell Electric Vehicle (FCEV)
 
 ![ioniq](/assets/img/type_car_ioniq.png)
 
-(차종 : 아이오닉 Electric )
-
 | 구분 | Q & N |
 | :------: | :------: | 
 | 전장 X 전폭 X 전고 (mm) | 4,470 X 1,820 X 1,474 |
@@ -153,6 +151,8 @@ Fuel Cell Electric Vehicle (FCEV)
 | 급속 충전 시간 (~80%) | 약 54분 (100kW 기준) |
 | 완속 충전 시간 (~100%) | 약 6시간 5분 |
 
+(차종 : 아이오닉 Electric )
+
 <BR>
   
 <p id = "type_doemsticev_hyundai_kona"></p>
@@ -160,8 +160,6 @@ Fuel Cell Electric Vehicle (FCEV)
 ### (2) 코나 EV
 
 ![kona](/assets/img/type_car_kona.png)
-
-(차종 : 코나 Electric 프리미엄)
 
 | 구분 | 저용량 | 고용량 |
 | :------: | :------: | :------: |
@@ -176,6 +174,8 @@ Fuel Cell Electric Vehicle (FCEV)
 | 전비 (km/kWh | 복합 5.8 (도심 : 6.5, 고속도로 : 5.1) | 복합 5.6 (도심 : 6.2, 고속도로 : 5) |
 | 급속 충전 시간 (~80%) | 약 54분 | 약 54분 |
 
+(차종 : 코나 Electric 프리미엄)
+
 <BR>
 
 <p id = "type_doemsticev_kia"></p>
@@ -187,8 +187,6 @@ Fuel Cell Electric Vehicle (FCEV)
 ### (1) 니로 EV
 
 ![niro](/assets/img/type_car_niro.png)
-
-(차종 : 니로 EV)
 
 | 구분 | 프레스티지 & 노블레스 |
 | :------: | :------------: | 
@@ -203,6 +201,8 @@ Fuel Cell Electric Vehicle (FCEV)
 | 전비 (km/kWh) | 복합 5.3 (도심 : 5.8, 고속도로 : 4.9) |
 | 급속 충전 시간 (~80%) | 약 54분 (100kW 기준) |
 
+(차종 : 니로 EV)
+
 <BR>
   
 <p id = "type_doemsticev_kia_soul"></p>
@@ -210,8 +210,6 @@ Fuel Cell Electric Vehicle (FCEV)
 ### (2) 소울 EV
 
 ![soul](/assets/img/type_car_soul.png)
-
-(차종 : 소울 EV)
 
 | 구분 | 프레스티지 | 노블레스 |
 | :------: | :------: | :------: |
@@ -227,4 +225,4 @@ Fuel Cell Electric Vehicle (FCEV)
 | 급속 충전 시간 (~80%) | 약 54분 | 약 54분 |
 | 완속 충전 시간 (~100%) | 약 6시간 10분 | 약 9시간 35분 |
   
-
+(차종 : 소울 EV)
