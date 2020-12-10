@@ -22,11 +22,11 @@ EV의 시동을 걸고 끄는 방식은 기존의 가스 자동차와 동일하�
 
 ![on/off bmw i3](assets/img/faq_onoff_bmw.jpg)
 
-### (4) 피아트 500e의 시동
+#### (4) 피아트 500e의 시동
 
 ![on/off fiat 500e](assets/img/faq_onoff_fiat500.jpg)
 
-### (5) 스마트 포투의 시동
+#### (5) 스마트 포투의 시동
 
 ![on/off smart fortwo](assets/img/faq_onoff_smartfortwo.jpg)
 
@@ -63,7 +63,7 @@ EV는 콘센트가 있는 곳이면 어디에서든지 차량을 충전할 수 �
 
 ![charge smart fortwo](assets/img/faq_charge_fortwo.jpg)
 
-### (6) 테슬라 Model S의 충전
+#### (6) 테슬라 Model S의 충전
 
 ![charge tesla model s](assets/img/faq_charge_tesla.jpg)
 
