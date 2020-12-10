@@ -3,7 +3,7 @@
     <li><a href = "#usage_charge"><bold>2. 충전하기 </bold></a></li>
 </ui>
 
-# 전기 자동차 이용 방법
+# 전기 자동차의 이용 방법
 
 <p id = "usage_on"></p>
 
