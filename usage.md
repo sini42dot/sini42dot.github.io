@@ -17,7 +17,7 @@ EV의 시동을 걸고 끄는 방식은 기존의 가스 자동차와 동일합�
 
 ### (2) 현대 소울의 시동
 
-![on/off soul](aassets/img/faq_onoff_soul.jpg)
+![on/off soul](assets/img/faq_onoff_soul.jpg)
 
 ### (3) BMW i3의 시동
 
@@ -34,7 +34,7 @@ EV의 시동을 걸고 끄는 방식은 기존의 가스 자동차와 동일합�
 ### (6) 테슬라 Model S의 시동
 별도의 시동 버튼 없이, 기어변속 레버를 'D'에 두면 시동이 켜지고, 기어 변속 레버를 'P'에 두면 시동이 꺼집니다. 
 
-![on/off tesla model s](assets/img/faq_onoff_tesla.jpg)
+![on/off tesla model s](assets/img/faq_onoff_tesla.png)
 
 
 <p id = "usage_charge"></p>
