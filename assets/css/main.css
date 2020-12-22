@@ -251,12 +251,12 @@ img {
 
 @media (min-width: 768px) {
   .navbar-custom .nav-item.dropdown:hover {
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(255, 255, 255);
   }
 }
 
 .navbar-custom .nav-item.dropdown.show {
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(255, 255, 255;
 }
 
 .navbar-custom .nav-item.dropdown .dropdown-menu {
