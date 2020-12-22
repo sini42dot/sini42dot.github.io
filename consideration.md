@@ -1,4 +1,4 @@
-<ui class="subnavi"  style="position:fixed;left: 3em; top:10em; font-size: 0.8em;">
+<ui class="subnavi">
     <li><a href = "#consideration_battery"><bold>1. 배터리 수명</bold></a></li>
     <li><a href = "#consideration_km"><bold>2. 주행 가능 거리</bold></a></li>
 </ui>
