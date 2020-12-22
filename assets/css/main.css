@@ -919,12 +919,15 @@ pre {
 }
 
 .subnavi {
-  color: #fff;
   background-color: #000;
   margin-left: -2.2em;
   padding: 0.5em;
   width: 12%
   margin-top: -3.2em;
+}
+
+.subnavi a { 
+  color : #fff;
 }
 
 @media (max-width: 768px) {
