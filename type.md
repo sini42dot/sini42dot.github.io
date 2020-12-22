@@ -3,16 +3,7 @@
         <li><a href = "#type_type"><bold>1. 전기차의 종류</bold></a></li>
           <ui>
               <li><a href = "#type_type_hev">1.1 하이브리드 전기차</a></li>
-                  <ui>
-                      <li><a href = "#type_type_hev_mhev">(1) 마일드 하이브리드 전기차</a></li>
-                      <li><a href = "#type_type_hev_hev">(2) 하이브리드 전기차</a></li>
-                      <li><a href = "#type_type_hev_phev">(3) 플러그인 하이브리드 전기차</a></li>
-                  </ui>
               <li><a href = "#type_type_pureev">1.2 순수 전기차</a></li> 
-                  <ui >
-                      <li><a href = "#type_type_pureev_bev">(1) 배터리 전기차</a></li>
-                      <li><a href = "#type_type_pureev_fcev">(2) 수소 전기차</a></li>
-                  </ui>
           </ui>
         <li><a href = "#type_feature"><bold>2. 기차 종류별 특징 </bold></a></li>
         <li><a href = "#type_doemsticev" style="text-decoration: bold;"><bold>3. 국내 전기 자동차</bold></a></li>
