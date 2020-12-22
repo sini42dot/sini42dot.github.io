@@ -1,4 +1,4 @@
-<ui style="position:fixed;left: 3em; top:10em; font-size: 0.8em;">
+<ui class="subnavi"  style="position:fixed;left: 3em; top:10em; font-size: 0.8em;">
     <li><a href = "#safety_battery"><bold>1. 배터리 안전 관리</bold></a></li>
     <li><a href = "#safety_eshock"><bold>2. 감전 예방 관리</bold></a></li>
     <li><a href = "#safety_tips"><bold>3. 충전기 사용 시 주의사항</bold></a></li>
