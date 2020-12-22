@@ -924,14 +924,11 @@ pre {
   width: 12% ;
   position:fixed;
   left: 0.2em; 
-  bottom : 3em; 
+  top : 3em; 
   font-size: 0.8em;
 }
 
-
-style=""
-
-.subnavi a { 
+.subnavi li, a { 
   color : #fff;
 }
 
