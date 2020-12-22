@@ -1,4 +1,4 @@
-<ui class="subnavi" style="position:fixed;left: 3em; top:10em; font-size: 0.8em;">
+<ui class="subnavi" >
     <li><a href = "#support_support"><bold>1. 보조금 지원</bold></a></li>
     <li><a href = "#support_charger"><bold>2. 완속충전기 설치</bold></a></li>
     <li><a href = "#support_incentive"><bold>3. 기타 인센티브</bold></a></li>
