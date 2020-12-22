@@ -923,12 +923,12 @@ pre {
   padding: 0.5em;
   width: 12% ;
   position:fixed;
-  left: 0.2em; 
-  top : 3em; 
+  left: 0em; 
+  top : 7em; 
   font-size: 0.8em;
 }
 
-.subnavi li, a { 
+.subnavi li a { 
   color : #fff;
 }
 
