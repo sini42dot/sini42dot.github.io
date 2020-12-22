@@ -1,4 +1,4 @@
-<ui class="subnavi"  style="position:fixed;left: 3em; top:10em; font-size: 0.8em;">
+<ui class="subnavi">
     <li><a href = "#charge_type"><bold>1. 충전 속도에 따른 분류</bold></a></li>
     <li><a href = "#charge_setting"><bold>2. 충전기 설치 방식에 따른 분류</bold></a></li>
     <li><a href = "#charge_connector"><bold>3. 충전 커넥터에 따른 분류</bold></a></li>
