@@ -919,7 +919,7 @@ pre {
 }
 
 .subnavi {
-  color : black ;
+  color: #000;
 }
 
 @media (min-width: 768px) {
