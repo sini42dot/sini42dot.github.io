@@ -15,5 +15,5 @@
 * 전기차 특화 보험 연계
 
 ### (3) 하나의 스위치로 모든 서비스를!
-* [All About EV](sini42dot.github.io)와 연계한 서비스 접근성을 높였습니다
+* [All About EV](https://sini42dot.github.io/type/)와 연계한 서비스 접근성을 높였습니다
 * 다가오는 2021년 전기차 시대에 앞서 준비하는 EVIBE
